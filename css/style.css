@@ -1,0 +1,28 @@
+
+
+/*font-family: 'Bad Script', cursive;*/
+*{
+	margin: 0;
+	padding: 0;
+}
+h1,h2,h3{
+	font-family: 'Playfair Display', serif;
+}
+img{
+	width: 100%;}
+
+/*banner start*/
+.slidimg{
+height: 550px;
+}
+.carhead {
+        margin-bottom:130px;
+}
+.cardimg{
+    height: 360px;
+}
+/*banner end*/
+.boostrap_compnents{
+    padding: 100px;
+    background-color: gray;
+}
